@@ -1,5 +1,5 @@
 #My Resume
-A simple resume 域名还没买 只能放在github中托管 <https://github.com/MHuajian/Resume>
+A simple resume 域名还没买 只能放在github中托管 <https://MHuajian.github.io/MHuajian/Resume>
 
 ##usage
 
