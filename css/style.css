@@ -66,6 +66,10 @@
 #home-content img{
   margin-top: 300px;
   transition: margin-top 1s ease-in-out 0s;
+  -webkit-border-radius:100px;
+  -moz-border-radius:100px;
+  -ms-border-radius:100px;
+  -o-border-radius:100px;
 }
 aside{
   background: rgba(0,0,0,0) none repeat scroll 0 0;
